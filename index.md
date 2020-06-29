@@ -5,3 +5,6 @@
  * groß
  * stark
  * grau
+
+Cheyenne:
+> Ist mein Kaffee fertig?
