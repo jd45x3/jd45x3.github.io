@@ -8,3 +8,5 @@
 
 Cheyenne:
 > Ist mein Kaffee fertig?
+
+<img src="https://img.fotocommunity.com/baum-im-rapsfeld-e7a9fd39-3cd1-430a-9035-938a0a310044.jpg?width=1000"/>
